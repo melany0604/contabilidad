@@ -1,0 +1,685 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\programacionweb2\\ContabilidadSantaCruz\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0C35EAD4-6270-4EAC-A8AF-57FB47DBA250}|ContabilidadSantaCruz.csproj|d:\\programacionweb2\\contabilidadsantacruz\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C35EAD4-6270-4EAC-A8AF-57FB47DBA250}|ContabilidadSantaCruz.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C35EAD4-6270-4EAC-A8AF-57FB47DBA250}|ContabilidadSantaCruz.csproj|d:\\programacionweb2\\contabilidadsantacruz\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0C35EAD4-6270-4EAC-A8AF-57FB47DBA250}|ContabilidadSantaCruz.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C35EAD4-6270-4EAC-A8AF-57FB47DBA250}|ContabilidadSantaCruz.csproj|d:\\programacionweb2\\contabilidadsantacruz\\contabilidadsantacruz.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{0C35EAD4-6270-4EAC-A8AF-57FB47DBA250}|ContabilidadSantaCruz.csproj|solutionrelative:contabilidadsantacruz.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\programacionweb2\\ContabilidadSantaCruz\\Migrations\\20251124011841_M1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20251124011841_M1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C35EAD4-6270-4EAC-A8AF-57FB47DBA250}|ContabilidadSantaCruz.csproj|d:\\programacionweb2\\contabilidadsantacruz\\infraestructura\\repositorios\\pagorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C35EAD4-6270-4EAC-A8AF-57FB47DBA250}|ContabilidadSantaCruz.csproj|solutionrelative:infraestructura\\repositorios\\pagorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C35EAD4-6270-4EAC-A8AF-57FB47DBA250}|ContabilidadSantaCruz.csproj|d:\\programacionweb2\\contabilidadsantacruz\\infraestructura\\repositorios\\facturarepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C35EAD4-6270-4EAC-A8AF-57FB47DBA250}|ContabilidadSantaCruz.csproj|solutionrelative:infraestructura\\repositorios\\facturarepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C35EAD4-6270-4EAC-A8AF-57FB47DBA250}|ContabilidadSantaCruz.csproj|d:\\programacionweb2\\contabilidadsantacruz\\infraestructura\\repositorios\\cuentabancariarepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C35EAD4-6270-4EAC-A8AF-57FB47DBA250}|ContabilidadSantaCruz.csproj|solutionrelative:infraestructura\\repositorios\\cuentabancariarepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C35EAD4-6270-4EAC-A8AF-57FB47DBA250}|ContabilidadSantaCruz.csproj|d:\\programacionweb2\\contabilidadsantacruz\\presentacion\\controllers\\pagoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C35EAD4-6270-4EAC-A8AF-57FB47DBA250}|ContabilidadSantaCruz.csproj|solutionrelative:presentacion\\controllers\\pagoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C35EAD4-6270-4EAC-A8AF-57FB47DBA250}|ContabilidadSantaCruz.csproj|d:\\programacionweb2\\contabilidadsantacruz\\presentacion\\controllers\\facturascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C35EAD4-6270-4EAC-A8AF-57FB47DBA250}|ContabilidadSantaCruz.csproj|solutionrelative:presentacion\\controllers\\facturascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C35EAD4-6270-4EAC-A8AF-57FB47DBA250}|ContabilidadSantaCruz.csproj|d:\\programacionweb2\\contabilidadsantacruz\\presentacion\\controllers\\cuentasbancariascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C35EAD4-6270-4EAC-A8AF-57FB47DBA250}|ContabilidadSantaCruz.csproj|solutionrelative:presentacion\\controllers\\cuentasbancariascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C35EAD4-6270-4EAC-A8AF-57FB47DBA250}|ContabilidadSantaCruz.csproj|d:\\programacionweb2\\contabilidadsantacruz\\infraestructura\\data\\contabilidadcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C35EAD4-6270-4EAC-A8AF-57FB47DBA250}|ContabilidadSantaCruz.csproj|solutionrelative:infraestructura\\data\\contabilidadcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C35EAD4-6270-4EAC-A8AF-57FB47DBA250}|ContabilidadSantaCruz.csproj|d:\\programacionweb2\\contabilidadsantacruz\\contabilidadsantacruz.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0C35EAD4-6270-4EAC-A8AF-57FB47DBA250}|ContabilidadSantaCruz.csproj|solutionrelative:contabilidadsantacruz.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C35EAD4-6270-4EAC-A8AF-57FB47DBA250}|ContabilidadSantaCruz.csproj|d:\\programacionweb2\\contabilidadsantacruz\\presentacion\\controllers\\presupuestoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C35EAD4-6270-4EAC-A8AF-57FB47DBA250}|ContabilidadSantaCruz.csproj|solutionrelative:presentacion\\controllers\\presupuestoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C35EAD4-6270-4EAC-A8AF-57FB47DBA250}|ContabilidadSantaCruz.csproj|d:\\programacionweb2\\contabilidadsantacruz\\core\\servicios\\gestionproveedoresservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C35EAD4-6270-4EAC-A8AF-57FB47DBA250}|ContabilidadSantaCruz.csproj|solutionrelative:core\\servicios\\gestionproveedoresservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C35EAD4-6270-4EAC-A8AF-57FB47DBA250}|ContabilidadSantaCruz.csproj|d:\\programacionweb2\\contabilidadsantacruz\\core\\servicios\\gestionpresupuestosservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C35EAD4-6270-4EAC-A8AF-57FB47DBA250}|ContabilidadSantaCruz.csproj|solutionrelative:core\\servicios\\gestionpresupuestosservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C35EAD4-6270-4EAC-A8AF-57FB47DBA250}|ContabilidadSantaCruz.csproj|d:\\programacionweb2\\contabilidadsantacruz\\core\\servicios\\gestionpagosservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C35EAD4-6270-4EAC-A8AF-57FB47DBA250}|ContabilidadSantaCruz.csproj|solutionrelative:core\\servicios\\gestionpagosservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C35EAD4-6270-4EAC-A8AF-57FB47DBA250}|ContabilidadSantaCruz.csproj|d:\\programacionweb2\\contabilidadsantacruz\\core\\servicios\\gestionfacturasservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C35EAD4-6270-4EAC-A8AF-57FB47DBA250}|ContabilidadSantaCruz.csproj|solutionrelative:core\\servicios\\gestionfacturasservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C35EAD4-6270-4EAC-A8AF-57FB47DBA250}|ContabilidadSantaCruz.csproj|d:\\programacionweb2\\contabilidadsantacruz\\core\\servicios\\gestioncuentasbancariasservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C35EAD4-6270-4EAC-A8AF-57FB47DBA250}|ContabilidadSantaCruz.csproj|solutionrelative:core\\servicios\\gestioncuentasbancariasservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C35EAD4-6270-4EAC-A8AF-57FB47DBA250}|ContabilidadSantaCruz.csproj|d:\\programacionweb2\\contabilidadsantacruz\\core\\interfaces\\itransaccionrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C35EAD4-6270-4EAC-A8AF-57FB47DBA250}|ContabilidadSantaCruz.csproj|solutionrelative:core\\interfaces\\itransaccionrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C35EAD4-6270-4EAC-A8AF-57FB47DBA250}|ContabilidadSantaCruz.csproj|d:\\programacionweb2\\contabilidadsantacruz\\core\\interfaces\\iproveedorrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C35EAD4-6270-4EAC-A8AF-57FB47DBA250}|ContabilidadSantaCruz.csproj|solutionrelative:core\\interfaces\\iproveedorrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C35EAD4-6270-4EAC-A8AF-57FB47DBA250}|ContabilidadSantaCruz.csproj|d:\\programacionweb2\\contabilidadsantacruz\\core\\interfaces\\ipresupuestorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C35EAD4-6270-4EAC-A8AF-57FB47DBA250}|ContabilidadSantaCruz.csproj|solutionrelative:core\\interfaces\\ipresupuestorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C35EAD4-6270-4EAC-A8AF-57FB47DBA250}|ContabilidadSantaCruz.csproj|d:\\programacionweb2\\contabilidadsantacruz\\core\\interfaces\\ipagorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C35EAD4-6270-4EAC-A8AF-57FB47DBA250}|ContabilidadSantaCruz.csproj|solutionrelative:core\\interfaces\\ipagorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C35EAD4-6270-4EAC-A8AF-57FB47DBA250}|ContabilidadSantaCruz.csproj|d:\\programacionweb2\\contabilidadsantacruz\\core\\interfaces\\ifacturarepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C35EAD4-6270-4EAC-A8AF-57FB47DBA250}|ContabilidadSantaCruz.csproj|solutionrelative:core\\interfaces\\ifacturarepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C35EAD4-6270-4EAC-A8AF-57FB47DBA250}|ContabilidadSantaCruz.csproj|d:\\programacionweb2\\contabilidadsantacruz\\core\\interfaces\\icuentabancariarepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C35EAD4-6270-4EAC-A8AF-57FB47DBA250}|ContabilidadSantaCruz.csproj|solutionrelative:core\\interfaces\\icuentabancariarepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C35EAD4-6270-4EAC-A8AF-57FB47DBA250}|ContabilidadSantaCruz.csproj|d:\\programacionweb2\\contabilidadsantacruz\\core\\dtos\\transacciondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C35EAD4-6270-4EAC-A8AF-57FB47DBA250}|ContabilidadSantaCruz.csproj|solutionrelative:core\\dtos\\transacciondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C35EAD4-6270-4EAC-A8AF-57FB47DBA250}|ContabilidadSantaCruz.csproj|d:\\programacionweb2\\contabilidadsantacruz\\core\\dtos\\presupuestodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C35EAD4-6270-4EAC-A8AF-57FB47DBA250}|ContabilidadSantaCruz.csproj|solutionrelative:core\\dtos\\presupuestodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C35EAD4-6270-4EAC-A8AF-57FB47DBA250}|ContabilidadSantaCruz.csproj|d:\\programacionweb2\\contabilidadsantacruz\\core\\dtos\\pagodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C35EAD4-6270-4EAC-A8AF-57FB47DBA250}|ContabilidadSantaCruz.csproj|solutionrelative:core\\dtos\\pagodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C35EAD4-6270-4EAC-A8AF-57FB47DBA250}|ContabilidadSantaCruz.csproj|d:\\programacionweb2\\contabilidadsantacruz\\core\\dtos\\facturadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C35EAD4-6270-4EAC-A8AF-57FB47DBA250}|ContabilidadSantaCruz.csproj|solutionrelative:core\\dtos\\facturadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C35EAD4-6270-4EAC-A8AF-57FB47DBA250}|ContabilidadSantaCruz.csproj|d:\\programacionweb2\\contabilidadsantacruz\\core\\dtos\\cuentabancariadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C35EAD4-6270-4EAC-A8AF-57FB47DBA250}|ContabilidadSantaCruz.csproj|solutionrelative:core\\dtos\\cuentabancariadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C35EAD4-6270-4EAC-A8AF-57FB47DBA250}|ContabilidadSantaCruz.csproj|d:\\programacionweb2\\contabilidadsantacruz\\core\\entidades\\cuentabancaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C35EAD4-6270-4EAC-A8AF-57FB47DBA250}|ContabilidadSantaCruz.csproj|solutionrelative:core\\entidades\\cuentabancaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C35EAD4-6270-4EAC-A8AF-57FB47DBA250}|ContabilidadSantaCruz.csproj|d:\\programacionweb2\\contabilidadsantacruz\\core\\entidades\\cuentaporpagar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C35EAD4-6270-4EAC-A8AF-57FB47DBA250}|ContabilidadSantaCruz.csproj|solutionrelative:core\\entidades\\cuentaporpagar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C35EAD4-6270-4EAC-A8AF-57FB47DBA250}|ContabilidadSantaCruz.csproj|d:\\programacionweb2\\contabilidadsantacruz\\core\\entidades\\detallefactura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C35EAD4-6270-4EAC-A8AF-57FB47DBA250}|ContabilidadSantaCruz.csproj|solutionrelative:core\\entidades\\detallefactura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C35EAD4-6270-4EAC-A8AF-57FB47DBA250}|ContabilidadSantaCruz.csproj|d:\\programacionweb2\\contabilidadsantacruz\\core\\entidades\\facturaemitida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C35EAD4-6270-4EAC-A8AF-57FB47DBA250}|ContabilidadSantaCruz.csproj|solutionrelative:core\\entidades\\facturaemitida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C35EAD4-6270-4EAC-A8AF-57FB47DBA250}|ContabilidadSantaCruz.csproj|d:\\programacionweb2\\contabilidadsantacruz\\core\\entidades\\transaccionfinanciera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C35EAD4-6270-4EAC-A8AF-57FB47DBA250}|ContabilidadSantaCruz.csproj|solutionrelative:core\\entidades\\transaccionfinanciera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C35EAD4-6270-4EAC-A8AF-57FB47DBA250}|ContabilidadSantaCruz.csproj|d:\\programacionweb2\\contabilidadsantacruz\\core\\entidades\\proveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C35EAD4-6270-4EAC-A8AF-57FB47DBA250}|ContabilidadSantaCruz.csproj|solutionrelative:core\\entidades\\proveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C35EAD4-6270-4EAC-A8AF-57FB47DBA250}|ContabilidadSantaCruz.csproj|d:\\programacionweb2\\contabilidadsantacruz\\core\\entidades\\presupuestocentro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C35EAD4-6270-4EAC-A8AF-57FB47DBA250}|ContabilidadSantaCruz.csproj|solutionrelative:core\\entidades\\presupuestocentro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C35EAD4-6270-4EAC-A8AF-57FB47DBA250}|ContabilidadSantaCruz.csproj|d:\\programacionweb2\\contabilidadsantacruz\\core\\entidades\\pago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C35EAD4-6270-4EAC-A8AF-57FB47DBA250}|ContabilidadSantaCruz.csproj|solutionrelative:core\\entidades\\pago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 102,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ContabilidadSantaCruz.http",
+              "DocumentMoniker": "D:\\programacionweb2\\ContabilidadSantaCruz\\ContabilidadSantaCruz.http",
+              "RelativeDocumentMoniker": "ContabilidadSantaCruz.http",
+              "ToolTip": "D:\\programacionweb2\\ContabilidadSantaCruz\\ContabilidadSantaCruz.http",
+              "RelativeToolTip": "ContabilidadSantaCruz.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-11-24T01:26:30.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20251124011841_M1.cs",
+              "DocumentMoniker": "D:\\programacionweb2\\ContabilidadSantaCruz\\Migrations\\20251124011841_M1.cs",
+              "RelativeDocumentMoniker": "Migrations\\20251124011841_M1.cs",
+              "ToolTip": "D:\\programacionweb2\\ContabilidadSantaCruz\\Migrations\\20251124011841_M1.cs",
+              "RelativeToolTip": "Migrations\\20251124011841_M1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T01:18:42.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PagoRepositorio.cs",
+              "DocumentMoniker": "D:\\programacionweb2\\ContabilidadSantaCruz\\Infraestructura\\Repositorios\\PagoRepositorio.cs",
+              "RelativeDocumentMoniker": "Infraestructura\\Repositorios\\PagoRepositorio.cs",
+              "ToolTip": "D:\\programacionweb2\\ContabilidadSantaCruz\\Infraestructura\\Repositorios\\PagoRepositorio.cs",
+              "RelativeToolTip": "Infraestructura\\Repositorios\\PagoRepositorio.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T01:08:18.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FacturaRepositorio.cs",
+              "DocumentMoniker": "D:\\programacionweb2\\ContabilidadSantaCruz\\Infraestructura\\Repositorios\\FacturaRepositorio.cs",
+              "RelativeDocumentMoniker": "Infraestructura\\Repositorios\\FacturaRepositorio.cs",
+              "ToolTip": "D:\\programacionweb2\\ContabilidadSantaCruz\\Infraestructura\\Repositorios\\FacturaRepositorio.cs",
+              "RelativeToolTip": "Infraestructura\\Repositorios\\FacturaRepositorio.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T01:07:58.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CuentaBancariaRepositorio.cs",
+              "DocumentMoniker": "D:\\programacionweb2\\ContabilidadSantaCruz\\Infraestructura\\Repositorios\\CuentaBancariaRepositorio.cs",
+              "RelativeDocumentMoniker": "Infraestructura\\Repositorios\\CuentaBancariaRepositorio.cs",
+              "ToolTip": "D:\\programacionweb2\\ContabilidadSantaCruz\\Infraestructura\\Repositorios\\CuentaBancariaRepositorio.cs",
+              "RelativeToolTip": "Infraestructura\\Repositorios\\CuentaBancariaRepositorio.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T01:04:49.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\programacionweb2\\ContabilidadSantaCruz\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\programacionweb2\\ContabilidadSantaCruz\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAmwAkAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-24T00:55:37.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\programacionweb2\\ContabilidadSantaCruz\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\programacionweb2\\ContabilidadSantaCruz\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAAADUAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T00:50:40.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ContabilidadContext.cs",
+              "DocumentMoniker": "D:\\programacionweb2\\ContabilidadSantaCruz\\Infraestructura\\Data\\ContabilidadContext.cs",
+              "RelativeDocumentMoniker": "Infraestructura\\Data\\ContabilidadContext.cs",
+              "ToolTip": "D:\\programacionweb2\\ContabilidadSantaCruz\\Infraestructura\\Data\\ContabilidadContext.cs",
+              "RelativeToolTip": "Infraestructura\\Data\\ContabilidadContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T00:48:30.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ContabilidadSantaCruz",
+              "DocumentMoniker": "D:\\programacionweb2\\ContabilidadSantaCruz\\ContabilidadSantaCruz.csproj",
+              "RelativeDocumentMoniker": "ContabilidadSantaCruz.csproj",
+              "ToolTip": "D:\\programacionweb2\\ContabilidadSantaCruz\\ContabilidadSantaCruz.csproj",
+              "RelativeToolTip": "ContabilidadSantaCruz.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-24T00:46:39.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PresupuestosController.cs",
+              "DocumentMoniker": "D:\\programacionweb2\\ContabilidadSantaCruz\\Presentacion\\Controllers\\PresupuestosController.cs",
+              "RelativeDocumentMoniker": "Presentacion\\Controllers\\PresupuestosController.cs",
+              "ToolTip": "D:\\programacionweb2\\ContabilidadSantaCruz\\Presentacion\\Controllers\\PresupuestosController.cs",
+              "RelativeToolTip": "Presentacion\\Controllers\\PresupuestosController.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAwwE8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T00:45:28.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PagosController.cs",
+              "DocumentMoniker": "D:\\programacionweb2\\ContabilidadSantaCruz\\Presentacion\\Controllers\\PagosController.cs",
+              "RelativeDocumentMoniker": "Presentacion\\Controllers\\PagosController.cs",
+              "ToolTip": "D:\\programacionweb2\\ContabilidadSantaCruz\\Presentacion\\Controllers\\PagosController.cs",
+              "RelativeToolTip": "Presentacion\\Controllers\\PagosController.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAwwD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T00:44:32.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FacturasController.cs",
+              "DocumentMoniker": "D:\\programacionweb2\\ContabilidadSantaCruz\\Presentacion\\Controllers\\FacturasController.cs",
+              "RelativeDocumentMoniker": "Presentacion\\Controllers\\FacturasController.cs",
+              "ToolTip": "D:\\programacionweb2\\ContabilidadSantaCruz\\Presentacion\\Controllers\\FacturasController.cs",
+              "RelativeToolTip": "Presentacion\\Controllers\\FacturasController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T00:43:34.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CuentasBancariasController.cs",
+              "DocumentMoniker": "D:\\programacionweb2\\ContabilidadSantaCruz\\Presentacion\\Controllers\\CuentasBancariasController.cs",
+              "RelativeDocumentMoniker": "Presentacion\\Controllers\\CuentasBancariasController.cs",
+              "ToolTip": "D:\\programacionweb2\\ContabilidadSantaCruz\\Presentacion\\Controllers\\CuentasBancariasController.cs",
+              "RelativeToolTip": "Presentacion\\Controllers\\CuentasBancariasController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T00:33:08.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "GestionProveedoresService.cs",
+              "DocumentMoniker": "D:\\programacionweb2\\ContabilidadSantaCruz\\Core\\Servicios\\GestionProveedoresService.cs",
+              "RelativeDocumentMoniker": "Core\\Servicios\\GestionProveedoresService.cs",
+              "ToolTip": "D:\\programacionweb2\\ContabilidadSantaCruz\\Core\\Servicios\\GestionProveedoresService.cs",
+              "RelativeToolTip": "Core\\Servicios\\GestionProveedoresService.cs",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T00:29:13.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "GestionPresupuestosService.cs",
+              "DocumentMoniker": "D:\\programacionweb2\\ContabilidadSantaCruz\\Core\\Servicios\\GestionPresupuestosService.cs",
+              "RelativeDocumentMoniker": "Core\\Servicios\\GestionPresupuestosService.cs",
+              "ToolTip": "D:\\programacionweb2\\ContabilidadSantaCruz\\Core\\Servicios\\GestionPresupuestosService.cs",
+              "RelativeToolTip": "Core\\Servicios\\GestionPresupuestosService.cs",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T00:29:07.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "GestionPagosService.cs",
+              "DocumentMoniker": "D:\\programacionweb2\\ContabilidadSantaCruz\\Core\\Servicios\\GestionPagosService.cs",
+              "RelativeDocumentMoniker": "Core\\Servicios\\GestionPagosService.cs",
+              "ToolTip": "D:\\programacionweb2\\ContabilidadSantaCruz\\Core\\Servicios\\GestionPagosService.cs",
+              "RelativeToolTip": "Core\\Servicios\\GestionPagosService.cs",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T00:29:03.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "GestionFacturasService.cs",
+              "DocumentMoniker": "D:\\programacionweb2\\ContabilidadSantaCruz\\Core\\Servicios\\GestionFacturasService.cs",
+              "RelativeDocumentMoniker": "Core\\Servicios\\GestionFacturasService.cs",
+              "ToolTip": "D:\\programacionweb2\\ContabilidadSantaCruz\\Core\\Servicios\\GestionFacturasService.cs",
+              "RelativeToolTip": "Core\\Servicios\\GestionFacturasService.cs",
+              "ViewState": "AgIAAJkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T00:28:55.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "GestionCuentasBancariasService.cs",
+              "DocumentMoniker": "D:\\programacionweb2\\ContabilidadSantaCruz\\Core\\Servicios\\GestionCuentasBancariasService.cs",
+              "RelativeDocumentMoniker": "Core\\Servicios\\GestionCuentasBancariasService.cs",
+              "ToolTip": "D:\\programacionweb2\\ContabilidadSantaCruz\\Core\\Servicios\\GestionCuentasBancariasService.cs",
+              "RelativeToolTip": "Core\\Servicios\\GestionCuentasBancariasService.cs",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T00:28:48.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ITransaccionRepositorio.cs",
+              "DocumentMoniker": "D:\\programacionweb2\\ContabilidadSantaCruz\\Core\\Interfaces\\ITransaccionRepositorio.cs",
+              "RelativeDocumentMoniker": "Core\\Interfaces\\ITransaccionRepositorio.cs",
+              "ToolTip": "D:\\programacionweb2\\ContabilidadSantaCruz\\Core\\Interfaces\\ITransaccionRepositorio.cs",
+              "RelativeToolTip": "Core\\Interfaces\\ITransaccionRepositorio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T00:28:20.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IProveedorRepositorio.cs",
+              "DocumentMoniker": "D:\\programacionweb2\\ContabilidadSantaCruz\\Core\\Interfaces\\IProveedorRepositorio.cs",
+              "RelativeDocumentMoniker": "Core\\Interfaces\\IProveedorRepositorio.cs",
+              "ToolTip": "D:\\programacionweb2\\ContabilidadSantaCruz\\Core\\Interfaces\\IProveedorRepositorio.cs",
+              "RelativeToolTip": "Core\\Interfaces\\IProveedorRepositorio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T00:28:18.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IPresupuestoRepositorio.cs",
+              "DocumentMoniker": "D:\\programacionweb2\\ContabilidadSantaCruz\\Core\\Interfaces\\IPresupuestoRepositorio.cs",
+              "RelativeDocumentMoniker": "Core\\Interfaces\\IPresupuestoRepositorio.cs",
+              "ToolTip": "D:\\programacionweb2\\ContabilidadSantaCruz\\Core\\Interfaces\\IPresupuestoRepositorio.cs",
+              "RelativeToolTip": "Core\\Interfaces\\IPresupuestoRepositorio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T00:28:17.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IPagoRepositorio.cs",
+              "DocumentMoniker": "D:\\programacionweb2\\ContabilidadSantaCruz\\Core\\Interfaces\\IPagoRepositorio.cs",
+              "RelativeDocumentMoniker": "Core\\Interfaces\\IPagoRepositorio.cs",
+              "ToolTip": "D:\\programacionweb2\\ContabilidadSantaCruz\\Core\\Interfaces\\IPagoRepositorio.cs",
+              "RelativeToolTip": "Core\\Interfaces\\IPagoRepositorio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T00:28:15.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IFacturaRepositorio.cs",
+              "DocumentMoniker": "D:\\programacionweb2\\ContabilidadSantaCruz\\Core\\Interfaces\\IFacturaRepositorio.cs",
+              "RelativeDocumentMoniker": "Core\\Interfaces\\IFacturaRepositorio.cs",
+              "ToolTip": "D:\\programacionweb2\\ContabilidadSantaCruz\\Core\\Interfaces\\IFacturaRepositorio.cs",
+              "RelativeToolTip": "Core\\Interfaces\\IFacturaRepositorio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T00:28:13.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ICuentaBancariaRepositorio.cs",
+              "DocumentMoniker": "D:\\programacionweb2\\ContabilidadSantaCruz\\Core\\Interfaces\\ICuentaBancariaRepositorio.cs",
+              "RelativeDocumentMoniker": "Core\\Interfaces\\ICuentaBancariaRepositorio.cs",
+              "ToolTip": "D:\\programacionweb2\\ContabilidadSantaCruz\\Core\\Interfaces\\ICuentaBancariaRepositorio.cs",
+              "RelativeToolTip": "Core\\Interfaces\\ICuentaBancariaRepositorio.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T00:28:04.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "TransaccionDTO.cs",
+              "DocumentMoniker": "D:\\programacionweb2\\ContabilidadSantaCruz\\Core\\DTOs\\TransaccionDTO.cs",
+              "RelativeDocumentMoniker": "Core\\DTOs\\TransaccionDTO.cs",
+              "ToolTip": "D:\\programacionweb2\\ContabilidadSantaCruz\\Core\\DTOs\\TransaccionDTO.cs",
+              "RelativeToolTip": "Core\\DTOs\\TransaccionDTO.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA9wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T00:27:57.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "PresupuestoDTO.cs",
+              "DocumentMoniker": "D:\\programacionweb2\\ContabilidadSantaCruz\\Core\\DTOs\\PresupuestoDTO.cs",
+              "RelativeDocumentMoniker": "Core\\DTOs\\PresupuestoDTO.cs",
+              "ToolTip": "D:\\programacionweb2\\ContabilidadSantaCruz\\Core\\DTOs\\PresupuestoDTO.cs",
+              "RelativeToolTip": "Core\\DTOs\\PresupuestoDTO.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA9wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T00:27:52.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "PagoDTO.cs",
+              "DocumentMoniker": "D:\\programacionweb2\\ContabilidadSantaCruz\\Core\\DTOs\\PagoDTO.cs",
+              "RelativeDocumentMoniker": "Core\\DTOs\\PagoDTO.cs",
+              "ToolTip": "D:\\programacionweb2\\ContabilidadSantaCruz\\Core\\DTOs\\PagoDTO.cs",
+              "RelativeToolTip": "Core\\DTOs\\PagoDTO.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA9wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T00:27:49.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "FacturaDTO.cs",
+              "DocumentMoniker": "D:\\programacionweb2\\ContabilidadSantaCruz\\Core\\DTOs\\FacturaDTO.cs",
+              "RelativeDocumentMoniker": "Core\\DTOs\\FacturaDTO.cs",
+              "ToolTip": "D:\\programacionweb2\\ContabilidadSantaCruz\\Core\\DTOs\\FacturaDTO.cs",
+              "RelativeToolTip": "Core\\DTOs\\FacturaDTO.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA9wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T00:27:45.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "CuentaBancariaDTO.cs",
+              "DocumentMoniker": "D:\\programacionweb2\\ContabilidadSantaCruz\\Core\\DTOs\\CuentaBancariaDTO.cs",
+              "RelativeDocumentMoniker": "Core\\DTOs\\CuentaBancariaDTO.cs",
+              "ToolTip": "D:\\programacionweb2\\ContabilidadSantaCruz\\Core\\DTOs\\CuentaBancariaDTO.cs",
+              "RelativeToolTip": "Core\\DTOs\\CuentaBancariaDTO.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T00:27:40.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "TransaccionFinanciera.cs",
+              "DocumentMoniker": "D:\\programacionweb2\\ContabilidadSantaCruz\\Core\\Entidades\\TransaccionFinanciera.cs",
+              "RelativeDocumentMoniker": "Core\\Entidades\\TransaccionFinanciera.cs",
+              "ToolTip": "D:\\programacionweb2\\ContabilidadSantaCruz\\Core\\Entidades\\TransaccionFinanciera.cs",
+              "RelativeToolTip": "Core\\Entidades\\TransaccionFinanciera.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T00:26:30.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Proveedor.cs",
+              "DocumentMoniker": "D:\\programacionweb2\\ContabilidadSantaCruz\\Core\\Entidades\\Proveedor.cs",
+              "RelativeDocumentMoniker": "Core\\Entidades\\Proveedor.cs",
+              "ToolTip": "D:\\programacionweb2\\ContabilidadSantaCruz\\Core\\Entidades\\Proveedor.cs",
+              "RelativeToolTip": "Core\\Entidades\\Proveedor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T00:26:23.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "PresupuestoCentro.cs",
+              "DocumentMoniker": "D:\\programacionweb2\\ContabilidadSantaCruz\\Core\\Entidades\\PresupuestoCentro.cs",
+              "RelativeDocumentMoniker": "Core\\Entidades\\PresupuestoCentro.cs",
+              "ToolTip": "D:\\programacionweb2\\ContabilidadSantaCruz\\Core\\Entidades\\PresupuestoCentro.cs",
+              "RelativeToolTip": "Core\\Entidades\\PresupuestoCentro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T00:26:17.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Pago.cs",
+              "DocumentMoniker": "D:\\programacionweb2\\ContabilidadSantaCruz\\Core\\Entidades\\Pago.cs",
+              "RelativeDocumentMoniker": "Core\\Entidades\\Pago.cs",
+              "ToolTip": "D:\\programacionweb2\\ContabilidadSantaCruz\\Core\\Entidades\\Pago.cs",
+              "RelativeToolTip": "Core\\Entidades\\Pago.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T00:04:53.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "FacturaEmitida.cs",
+              "DocumentMoniker": "D:\\programacionweb2\\ContabilidadSantaCruz\\Core\\Entidades\\FacturaEmitida.cs",
+              "RelativeDocumentMoniker": "Core\\Entidades\\FacturaEmitida.cs",
+              "ToolTip": "D:\\programacionweb2\\ContabilidadSantaCruz\\Core\\Entidades\\FacturaEmitida.cs",
+              "RelativeToolTip": "Core\\Entidades\\FacturaEmitida.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T00:04:44.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "DetalleFactura.cs",
+              "DocumentMoniker": "D:\\programacionweb2\\ContabilidadSantaCruz\\Core\\Entidades\\DetalleFactura.cs",
+              "RelativeDocumentMoniker": "Core\\Entidades\\DetalleFactura.cs",
+              "ToolTip": "D:\\programacionweb2\\ContabilidadSantaCruz\\Core\\Entidades\\DetalleFactura.cs",
+              "RelativeToolTip": "Core\\Entidades\\DetalleFactura.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T00:04:33.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "CuentaPorPagar.cs",
+              "DocumentMoniker": "D:\\programacionweb2\\ContabilidadSantaCruz\\Core\\Entidades\\CuentaPorPagar.cs",
+              "RelativeDocumentMoniker": "Core\\Entidades\\CuentaPorPagar.cs",
+              "ToolTip": "D:\\programacionweb2\\ContabilidadSantaCruz\\Core\\Entidades\\CuentaPorPagar.cs",
+              "RelativeToolTip": "Core\\Entidades\\CuentaPorPagar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T00:04:22.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "CuentaBancaria.cs",
+              "DocumentMoniker": "D:\\programacionweb2\\ContabilidadSantaCruz\\Core\\Entidades\\CuentaBancaria.cs",
+              "RelativeDocumentMoniker": "Core\\Entidades\\CuentaBancaria.cs",
+              "ToolTip": "D:\\programacionweb2\\ContabilidadSantaCruz\\Core\\Entidades\\CuentaBancaria.cs",
+              "RelativeToolTip": "Core\\Entidades\\CuentaBancaria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T00:04:13.364Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 27,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 125,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
